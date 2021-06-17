@@ -1,0 +1,49 @@
+body {
+    background-color:rgb(242, 213, 248);
+    font-family: 'Lucida Sans';
+}
+.Mimikyu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.PokemonFeelings {
+    border-style: solid;
+    padding: 10px;
+    border-color: #ff7eee;
+    border-width: 4px;
+    background-color: rgb(96, 238, 207);
+}
+.header{
+    color: #ff7eee;
+    background-color:rgb(96, 238, 207);
+    padding: 20px;
+    text-align: center;
+    border-style: solid;
+    border-color: #ff7eee;
+    border-width: 4px;
+}
+
+.Competitive {
+    color:purple
+}
+#favorite {
+    color:rebeccapurple
+}
+
+h2 { 
+    color:rgb(239, 171, 235);
+    text-align: center;
+}
+
+hr {
+    color: lightseagreen;
+}
+
+p {
+    font-family: 'Lucida Sans'
+    ;
+    font-size: 20px;
+
+}
+

@@ -1,0 +1,12 @@
+body {
+    background-color:rgb(242, 213, 248);
+    font-family: 'Lucida Sans';
+}
+
+header {
+    background-color: rgb(103, 219, 223);
+    padding: 30px;
+    text-align: center;
+    font-size: 30px;
+    color:#ff7eee;
+}
